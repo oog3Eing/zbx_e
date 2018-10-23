@@ -2,7 +2,7 @@
 <Response>
   <!-- <Pause length="3"/> -->
   <Say voice="alice" language="en-US">
-    Hello! I am Eva system!
+    Hello! I am Eva monitoring system!
     Please check your zabbix!
   </Say>
   <!-- <Play>https://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play> -->
