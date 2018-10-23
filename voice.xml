@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice" language="en-US">
-    Hello! I am Eeevaah monitoring system!
-    Please check your zabbix!
-  </Say>
+  <!-- <Say voice="alice" language="en-US"> -->
+  <!--   Hello! I am Eeevaah monitoring system! -->
+  <!--   Please check your zabbix! -->
+  <!-- </Say> -->
+  <Play>
+    http://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3
+  </Play>
 </Response>
