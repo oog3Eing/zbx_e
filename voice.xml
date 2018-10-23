@@ -5,5 +5,5 @@
     Hello! I am Eva monitoring system!
     Please check your zabbix!
   </Say>
-  <!-- <Play>https://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play> -->
+  <Play>http://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play>
 </Response>
