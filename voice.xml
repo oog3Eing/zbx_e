@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Play>http://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play>
+  <Play loop="10">https://api.twilio.com/cowbell.mp3</Play>
   <Say voice="alice" language="en-US">
-    Hello! I am Eva monitoring system!
-    Please check your zabbix!
-  </Say>
-  <Play>http://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play>
-    <Say voice="alice" language="en-US">
     Hello! I am Eva monitoring system!
     Please check your zabbix!
   </Say>
