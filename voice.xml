@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Pause length="3"/>
-  <Say voice="woman">Hellow! Eva project monitoring system is calling!</Say>
+  <Say voice="woman" language="en-US">
+    Hello I am Eva monitoring system!
+    Please check your zabbix!
+  </Say>
   <!-- <Play>https://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play> -->
 </Response>
