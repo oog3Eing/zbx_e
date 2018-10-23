@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="alice">Hi! Eva is calling!</Say>
-    <Play>https://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play>
+    <!-- <Play>https://raw.githubusercontent.com/oog3Eing/zbx_e/master/robot.mp3</Play> -->
 </Response>
