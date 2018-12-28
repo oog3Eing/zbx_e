@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice" language="en-US">
-    Hello! I am Heather Hostel monitoring system!
+    Hello! I am Heatter, Hostel monitoring system!
     Please check your zabbix!
-    Hello! I am Heather Hostel monitoring system!
+    Hello! I am Heatter, Hostel monitoring system!
     Please check your zabbix!
-    Hello! I am Heather Hostel monitoring system!
+    Hello! I am Heatter, Hostel monitoring system!
     Please check your zabbix!
   </Say>
 </Response>
