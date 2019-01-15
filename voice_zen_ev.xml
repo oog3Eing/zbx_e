@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="en-US">
+    Hello! I am Yeva, Zenoss, Hostel monitoring system!
+    Please check your Zenoss!
+    Hello! I am Yeva, Zenoss, Hostel monitoring system!
+    Please check your Zenoss!
+    Hello! I am Yeva, Zenoss, Hostel monitoring system!
+    Please check your Zenoss!
+  </Say>
+</Response>
